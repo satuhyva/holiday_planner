@@ -1,5 +1,10 @@
 # HOLIDAY PLANNER
 
+## DESCRIPTION
+See the Word file:
+
+    Description.docx
+
 ## HOW TO USE?
 See the example file:
 
